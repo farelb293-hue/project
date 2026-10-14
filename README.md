@@ -36,3 +36,5 @@ Halo, Budi!
 Masukkan tahun lahir Anda: 2000
 Perkiraan usia Anda adalah 26 tahun.
 ```
+
+Catatan: program ini sudah siap dijalankan di lingkungan virtual Python dengan dependency yang tercatat di `requirements.txt`.
