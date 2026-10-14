@@ -74,3 +74,7 @@ python -m pip list
 ```
 
 Ambil tangkapan layar hasil kedua perintah tersebut jika diminta sebagai bukti pengumpulan.
+
+### Bukti
+
+![Tangkapan layar git log dan pip list](bukti/git-log-pip-list.png)
